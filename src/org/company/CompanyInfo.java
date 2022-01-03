@@ -21,7 +21,12 @@ System.out.println("chennai");
 System.out.println("add");
 	}
 	
-	
+	public void sub() {
+System.out.println("sub");
+	}
+	public void mul() {
+System.out.println("mul");
+	}
 	
 	
 	
