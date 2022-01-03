@@ -17,9 +17,15 @@ System.out.println("chennai");
 		c.companyAddress();
 		
 	}
+	public void abc() {
+System.out.println("abc");
+	}
 	
 	public void sub() {
 System.out.println("sub");
+	}
+	public void def() {
+System.out.println("bjbak");
 	}
 	public void mul() {
 System.out.println("mul");
